@@ -1,3 +1,4 @@
+![logo](https://github.com/Pritom24-cv/Pritom24-cv/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Pritom Kar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
@@ -34,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritom24-cv&show_icons=true&locale=en" alt="pritom24-cv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritom24-cv&" alt="pritom24-cv" /></p>
+
