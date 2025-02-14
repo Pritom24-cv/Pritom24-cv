@@ -1,4 +1,4 @@
-![logo](https://github.com/Pritom24-cv/Pritom24-cv/blob/main/Github%20Banner.gif)
+![logo](https://github.com/Pritom24-cv/Pritom24-cv/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pritom Kar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
