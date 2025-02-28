@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritom24-cv" alt="pritom24-cv" /></a> </p>
 
-- 🌱 I’m currently learning **Web Developing, App Developing, Graphic Designing**
+- 🌱 I’m currently learning **Web Developing, App Developing and Graphic Designing**
 
 - 💬 Ask me about **Javascript, Android Studio**
 
